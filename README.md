@@ -1,1 +1,2 @@
 # fisrt-repository
+## git config
