@@ -1,6 +1,6 @@
 ## 코드피어리뷰
 
-# AIFFEL Socar Campus Code Peer Review Templete (H1)
+# AIFFEL Socar Campus Code Peer Review Templete
 
 코더 : [이종훈]
 리뷰어 : [이서영]
