@@ -1,18 +1,18 @@
 ## 코드피어리뷰
 
-AIFFEL Socar Campus Code Peer Review Templete (H1)
+# AIFFEL Socar Campus Code Peer Review Templete (H1)
 
 코더 : [이종훈]
 리뷰어 : [이서영]
 
-## PRT(PeerReviewTemplate) (H2)
+## PRT(PeerReviewTemplate)
 각 항목을 스스로 확인하고 토의하여 작성한 코드에 적용합니다.
 
 ## PRT(PeerReview Template)
 * 각 항목을 스스로 확인하고 토의하여 작성한 코드에 적용합니다
 
 1. [x] 코드가 정상적으로 동작하고 주어진 문제를 해결하였나요.
-   * A. 예 정상적으로 작동합니다.
+   * A. 예 정상적으로 작동합니다. 또한 구현하고자 했던 기능들을 위 주석에 놓고 해당 기능에 맞게 구현 하였습니다.
 2. [x] 주석을 보고 작성자의 코드가 이해되었나요
    * A. 네 사용자가 구현하고자 하는 개념을 메서드에 맞게 설명을 하였습니다.
 3. [x]  코드가 에러를 유발할 가능성이 없나요?
