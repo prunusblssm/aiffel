@@ -50,6 +50,7 @@
         logistic_model.fit(X_train, y_train)
 
         models = [dt,rf,svm_model,sgd_model,logistic_model]
+        
         ```
         
         
