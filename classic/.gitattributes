@@ -1,3 +1,0 @@
-classic/df_ibk.csv filter=lfs diff=lfs merge=lfs -text
-classic/df_concert.csv filter=lfs diff=lfs merge=lfs -text
-classic/2023빅콘테스트_어드밴스드리그_예술의전당.csv filter=lfs diff=lfs merge=lfs -text
